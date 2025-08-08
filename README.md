@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CARTMATE - AI Cart Recovery Agent</title>
+  **CARTMATE - AI Cart Recovery Agent**
 </head>
 <body>
   <h1>CARTMATE-AI</h1>
