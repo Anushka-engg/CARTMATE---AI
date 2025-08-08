@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  **CARTMATE - AI Cart Recovery Agent**
+  #CARTMATE - AI Cart Recovery Agent
 </head>
 <body>
   <h1>CARTMATE-AI</h1>
-  Built as part of the **Swafinix AI Agents Hackathon 2025**
+  Built as part of the Swafinix AI Agents Hackathon 2025
   
   **Problem Statement**
 "Millions of shopping carts are abandoned daily, leading to lost revenue. Manually following up with these customers is slow and inefficient.
