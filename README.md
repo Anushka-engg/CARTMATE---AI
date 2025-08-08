@@ -18,7 +18,7 @@ CartMate AI solves this by automating the recovery process using conversational 
   <p>📽️ Watch the walkthrough: <a href="loom.com/share/329b11aa699f4fb7b21ca32e4afec325" target="_blank">Click here</a></p>
 
   <h2>Workflow</h2>
-  <p><a href="[https://excalidraw.com/#json=tDE4jlrChteeiEfN-Ovx8,0nHmpf1CskVJb7x71qhwkA](https://excalidraw.com/#json=oFa0ke7poD88g0hKrQN-V,ngJ9sspnf2Ipv1oBgLNUFw)" target="_blank">WORKFLOW DIGRAM</a></p>
+  <p><a href="https://excalidraw.com/#json=oFa0ke7poD88g0hKrQN-V,ngJ9sspnf2Ipv1oBgLNUFw" target="_blank">WORKFLOW DIGRAM</a></p>
   <p>🎧 Click here to listen to the voice message:</p>
 <p><a href="https://drive.google.com/file/d/1a0lzIawdUaeZNRnwjcZWT18_z_iNiNL2/view?usp=sharing" target="_blank">Listen to voice message now</a></p>
 
